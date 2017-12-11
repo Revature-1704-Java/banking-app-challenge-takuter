@@ -1,4 +1,6 @@
-package com.bankoftim;
+package com.bankoftim.accounts;
+
+import com.bankoftim.accounts.*;
 
 public class Checking extends Account{
 

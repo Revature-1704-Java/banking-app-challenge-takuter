@@ -1,4 +1,5 @@
-package com.bankoftim;
+package com.bankoftim.accounts;
+
 
 public class Savings extends Account{
     public int withdrawals;

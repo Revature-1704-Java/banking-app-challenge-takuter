@@ -1,4 +1,4 @@
-package com.bankoftim;
+package com.bankoftim.accounts;
 
 import java.io.Serializable;
 

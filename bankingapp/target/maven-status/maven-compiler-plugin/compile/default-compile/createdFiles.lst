@@ -1,5 +1,5 @@
-com\bankoftim\Parser.class
-com\bankoftim\Checking.class
-com\bankoftim\Account.class
+com\bankoftim\io\Parser.class
 com\bankoftim\App.class
-com\bankoftim\Savings.class
+com\bankoftim\accounts\Checking.class
+com\bankoftim\accounts\Savings.class
+com\bankoftim\accounts\Account.class
